@@ -1,7 +1,9 @@
 [![MasterHead](https://res.cloudinary.com/duhcntqom/image/upload/v1742979868/nbxgxkvpyoryex2ufjni.png)](https://dhinakaran.vercel.app/contact)
 <h1 align="center">Hi 👋, I'm Dhinakaran S</h1>
 <h3 align="center">A Young-dump🤓 MERN Stack Developer From Erode</h3>
-# 💫 About Me:
+
+
+# 💫 About Me: <br>
 - 🌱 I’m currently learning <b>TypeScript & NextJS</b><br>- 👨‍💻 All of my projects are available at [Projects](https://dhinakaran.vercel.app/project)<br>- 💬 Ask me about <b>ReactJS, Vite, etc,.</b><br>- 📫 How to reach me <b>dhinakaran2425@gmail.com</b><br>- 📄 Know about my experiences [Resume](https://dhinakaran.vercel.app/resume)<br>- <b>⚡️Fun fact Chai tastes way better than Coffee | Change my mind!</b>
 
 
