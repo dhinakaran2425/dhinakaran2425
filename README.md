@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **TypeScript & NextJS**
 
-- 👨‍💻 All of my projects are available at [dhinakaran.vercel.app](dhinakaran.vercel.app)
+- 👨‍💻 All of my projects are available at [Projects](https://dhinakaran.vercel.app/project)
 
 - 💬 Ask me about **ReactJS, Vite, etc,.**
 
 - 📫 How to reach me **dhinakaran2425@gmail.com**
 
-- 👨‍💻 All of my projects are available at [Projects](https://dhinakaran.vercel.app/)
+- 📄 Know about my experiences [Resume](https://dhinakaran.vercel.app/resume)
 
 - **⚡️Fun fact Chai tastes way better than Coffee | Change my mind!**
 
