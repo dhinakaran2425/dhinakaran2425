@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dhinakaran2425@gmail.com**
 
-- 📄 Know about my experiences [dhinakaran.vercel.app/resume](dhinakaran.vercel.app/resume)
+- 👨‍💻 All of my projects are available at [Projects](https://dhinakaran.vercel.app/)
 
 - **⚡️Fun fact Chai tastes way better than Coffee | Change my mind!**
 
